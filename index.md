@@ -77,7 +77,7 @@ _I was very happy to see it and liked it very much._
 
 **Thank you visiting and reading.**
 
-**Keep visiting. have a good time Reeding.**
+**Keep visiting. Have a good time reading.**
 
 
 
