@@ -33,7 +33,7 @@ body {
 	//color: #2e39ff;
 	background-color: #FBFAF7;
   // background: linear-gradient(135deg, #fabcf6 50%, #c7ffe4  0) ; 
-	background: url("../images/mountain.svg") 0 0, linear-gradient(180deg, #fabcf6 50%, #c7ffe4  0) ; 
+	background: url("../images/mountain.svg") 0 0, linear-gradient(90deg, #fabcf6 50%, #c7ffe4  0) ; 
 	margin: 0;
 	line-height: 1.8em;
 	-webkit-font-smoothing: antialiased;
@@ -221,6 +221,7 @@ td {
 
 header {
 	background-color: #171717;
+	background-image: url("../images/mountain.svg");
 //	color: #FDFDFB;
   color: #78f900;
   width:170px;
