@@ -33,8 +33,10 @@ _He opened the door. There was a key._
 
 _He took it and put it in his pocket. He did not know what it is for._
 
-_He tied up the condorbot to his hang glide.
+_He tied up the condorbot to his hang glide._
 ![alt](assets/images/mountainAA.svg  "mountain.svg")
+<hr style="border-bottom:3px solid blue">
+<b>Drawing by SuiteCase Friend</b>
 
 _Started to glide up and landed on the top of the mountain._
 
@@ -51,6 +53,10 @@ _This did not what this is for._
 _There was a secret compartment._
 
 _He tried this key to open the compartment._
+![alt](assets/images/AeggAA.svg "assets/images/Aegg")
+<hr style="border-top:3px solid blue">
+<b>Image Photo by SuiteCase Friend</b>
+
 
 _To his surprise it opened._
 
