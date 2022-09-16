@@ -2,6 +2,10 @@
 
 ---
 
+
+![alt](assets/images/rocky.svg "rocky")
+
+
 ## Mt Pluto & Amethyst Egg
 
 
