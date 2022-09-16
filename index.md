@@ -35,8 +35,8 @@ _He took it and put it in his pocket. He did not know what it is for._
 
 _He tied up the condorbot to his hang glide._
 ![alt](assets/images/mountainAA.svg  "mountain.svg")
-<hr style="border-bottom:3px solid blue">
 <b>Drawing by SuiteCase Friend</b>
+<hr style="border-bottom:3px solid blue">
 
 _Started to glide up and landed on the top of the mountain._
 
@@ -54,9 +54,8 @@ _There was a secret compartment._
 
 _He tried this key to open the compartment._
 ![alt](assets/images/AeggAA.svg "assets/images/Aegg")
-<hr style="border-top:3px solid blue">
 <b>Image Photo by SuiteCase Friend</b>
-
+<hr style="border-top:3px solid blue">
 
 _To his surprise it opened._
 
@@ -82,9 +81,9 @@ _I was very happy to see it and liked it very much._
 
 ### The End
 
-**Thank you visiting and reading.**
+### **Thank you visiting and reading.**
 
-**Keep visiting. Have a good time reading.**
+### **Keep visiting. Have a good time reading.**
 
 
 
