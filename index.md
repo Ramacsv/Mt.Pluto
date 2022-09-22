@@ -32,7 +32,10 @@ _He was surprised to see it was not a real condor._
 _He called it a condorbot_
 
 _There was a door in the condorbot_
+![alt](condorbotA.svg "condorbotA")
 
+<b>Drawing by SuiteCase Friend</b>
+<hr style="border-bottom:3px green">
 _He opened the door. There was a key._
 
 _He took it and put it in his pocket. He did not know what it is for._
