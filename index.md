@@ -35,7 +35,7 @@ _There was a door in the condorbot_
 ![alt](condorbotA.svg "condorbotA")
 
 <b>Drawing by SuiteCase Friend</b>
-<hr style="border-bottom:3px green">
+<hr style="border-bottom:3px solid green">
 _He opened the door. There was a key._
 
 _He took it and put it in his pocket. He did not know what it is for._
