@@ -40,7 +40,7 @@ _He opened the door. There was a key._
 
 _He took it and put it in his pocket. He did not know what it is for._
 
-_He tied up the condorbot to his hang glide._
+![alt](assets/images/mountainAA1.svg  "mountain.svg")_He tied up the condorbot to his hang glide._
 ![alt](assets/images/mountainAA.svg  "mountain.svg")
 
 <b>Drawing by SuiteCase Friend</b>
