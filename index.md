@@ -87,9 +87,15 @@ _He showed it  to me ramacsv._
 
 _I was very happy to see it and liked it very much._
 
-<hr style="border-top:3px solid brown">
-![alt](assets/images/jewelAA.svg  "jewel")
-<hr style="border-top:3px solid brown">
+<hr style="border-top:3px solid green">
+
+| Chest Outside         | Chest Inside            |
+|:-------------|:------------------|
+|![alt](assets/images/chestA.svg)       |![alt](assets/images/jewelAA.svg) | 
+
+<b>Image Drawing by SuiteCase Friend ramacsv</b>
+<hr style="border-top:3px solid green">
+
 
 ### The End
 
